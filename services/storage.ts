@@ -289,33 +289,7 @@ const MOVIES_DATA: MovieEntry[] = [
       { "title": "Episode 17", "url": "https://drive.google.com/file/d/1RI-TzJdJ2Q_tityU02MFZuwxKuHtNwJl/view?usp=sharing", "type": "local" },
       { "title": "Episode 18", "url": "https://drive.google.com/file/d/1DNoddD7bkjcQEz79chOglYIT0TxfYnsF/view?usp=sharing", "type": "local" }
     ]
-  },{
-    "id": "22",
-    "title": "Brother (Abi)",
-    "originalTitle": "Abi",
-    "type": "tv",
-    "status": "watched",
-    "date": "2026-09-09",
-    "genres": ["Drama", "Family", "Psychological"],
-    "duration": "Weekly Series • 1 Episodes Total",
-    "episodeRuntimeMinutes": 190,
-    "story": "Following the explosive revelations that shattered Doğan's family and forced Çağla to confront her own past, Season 2 deals with the devastating aftermath of exposed secrets. As new power struggles emerge within the family empire and hidden betrayals come to light, Çağla and Doğan find themselves pulled into a dangerous crossfire between justice, revenge, and loyalty. With the past demanding a final reckoning, both must decide whether their shared wounds will heal them or tear their lives apart for good.",
-    "posterUrl": "/assets/ABIM/abis2.jpg",
-    "episodes": [
-      {
-        "number": 1,
-        "title": "Episode 1",
-        "summary": "The beginning of Çağla and Doğan's story. A chance encounter brings together two people from completely different worlds, setting the stage for a complex relationship built on secrets and unspoken wounds.",
-        "date": "2026-09-09",
-        "status": "watched"
-      }
-    ],
-    "videos": [
-      { "title": "Episode 1", "url": "https://drive.google.com/file/d/1iwEjgIxIqRklf_neNaAnl6xW4SRgJd63/view?usp=sharing", "type": "local" },
-    ]
-    
   },
-  
   {
     "id": "8",
     "title": "Top Gun",
