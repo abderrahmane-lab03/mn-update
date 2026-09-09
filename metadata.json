@@ -1,0 +1,6 @@
+{
+  "name": "Two Seats, One Screen",
+  "description": "A beautiful private cinema journal for couples",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
