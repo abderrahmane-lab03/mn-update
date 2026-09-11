@@ -312,7 +312,7 @@ const MOVIES_DATA: MovieEntry[] = [
       }
     ],
     "videos": [
-      { "title": "Episode 1", "url": "https://drive.google.com/file/d/1iwEjgIxIqRklf_neNaAnl6xW4SRgJd63/view?usp=sharing", "type": "local" },
+      { "title": "Episode 1", "url": "https://drive.google.com/file/d/1vZjWnWMPBrwgwT0rk8df-yeq01wlDCSA/view?usp=sharing", "type": "local" },
     ]
     
   },
