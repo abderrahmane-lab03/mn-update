@@ -317,10 +317,18 @@ const MOVIES_DATA: MovieEntry[] = [
         "date": "2026-09-16",
         "status": "watched"
       },
+      {
+        "number": 3,
+        "title": "Episode 3",
+        "summary": " follows critical turning points for Leyla and Doğan as dangerous plans and escalating conflicts unfold. Leyla faces a difficult dilemma following Saruhan's marriage proposal, while Doğan grows suspicious of her actions and moves to protect his sister Melek. ",
+        "date": "2026-09-23",
+        "status": "watched"
+      }
     ],
     "videos": [
       { "title": "Episode 1", "url": "https://drive.google.com/file/d/1vZjWnWMPBrwgwT0rk8df-yeq01wlDCSA/view?usp=sharing", "type": "local" },
-      { "title": "Episode 2", "url": "https://drive.google.com/file/d/1Vg7G6W8lCIvYI2CQC1fFk0Dbg2Se7u_K/view?usp=sharing", "type": "local" }
+      { "title": "Episode 2", "url": "https://drive.google.com/file/d/1Vg7G6W8lCIvYI2CQC1fFk0Dbg2Se7u_K/view?usp=sharing", "type": "local" },
+      { "title": "Episode 3", "url": "https://drive.google.com/file/d/1G8hv1W3idyzXCfi1ezjFipxAxz3TW3rw/view?usp=sharing", "type": "local" }
     ]
     
   },
